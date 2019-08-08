@@ -17,3 +17,6 @@ designed to aid in live show broadcasts on random internet radio stations.
 ##### v0.4
 * Background playback of beds
 
+##### v0.5
+* Kick-Ban-Kain Button (The Splinter-Switch)
+
