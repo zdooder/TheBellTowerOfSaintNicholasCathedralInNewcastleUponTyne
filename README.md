@@ -1,6 +1,6 @@
 ## TheBellTowerOfSaintNicolasCathedralInNewcastleUponTyne
 
-TheBellTowerOfSaintNicolasCathedrawlInNewcastleUponTyne (or Bellnick, for short) is a "cartwall" (or soundboard) software
+TheBellTowerOfSaintNicolasCathedralInNewcastleUponTyne (or Bellnick, for short) is a "cartwall" (or soundboard) software
 designed to aid in live show broadcasts on random internet radio stations.
 
 ### Feature Set
